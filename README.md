@@ -1,6 +1,8 @@
 This is a Tellonym user information scraper tool made fully by myself, using Selenium and Tellonym's official API.
 This tool uses rich to make it more beautiful in listing information.
 
+Don't forget "pip install selenium rich bs4"
+
 This tool scrapes:
 1 - Display Name
 2 - Username
