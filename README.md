@@ -1,27 +1,56 @@
-This is a Tellonym user information scraper tool made fully by myself, using Selenium and Tellonym's official API.
-This tool uses rich to make it more beautiful in listing information.
+# Tellonym User Info Scraper
 
-Don't forget "pip install selenium rich bs4"
+A **Tellonym user information scraper tool** built entirely by me using **Selenium** and **Tellonym's official API**. This tool is designed to extract detailed user information and display it beautifully using the [`rich`](https://github.com/Textualize/rich) library.
 
-This tool scrapes:
-1 - Display Name
-2 - Username
-3 - About Me
-4 - Real Followers
-5 - Anonymous Followers
-6 - Total Followers
-7 - Likes Count
-8 - Answer Count
-9 - Tells Count
-10 - Is Verified
-11 - Is Active
-12 - Is Able To Comment
-13 - Country Code
+> ⚠️ **Disclaimer:**  
+> This tool is **free to use**. **You may not sell** this tool in any form.  
+> It is **not compatible with mobile devices** — **runs on desktop only**.
 
-+++ ALL THE TELLS AND ANSWERS!!!
+---
 
-!!YOU CAN NOT SELL THIS TOOL AS IT IS COMPLETELY FOR FREE!!
+## 🔧 Features
 
-!!THIS TOOL CAN NOT RUN ON PHONES AS IT CAN ONLY RUN ON COMPUTERS!!
+This tool scrapes the following information:
 
-#holdmybeerandwatchthis
+1. Display Name  
+2. Username  
+3. About Me  
+4. Real Followers  
+5. Anonymous Followers  
+6. Total Followers  
+7. Likes Count  
+8. Answer Count  
+9. Tells Count  
+10. Is Verified  
+11. Is Active  
+12. Is Able to Comment  
+13. Country Code  
+14. **All Tells and Answers!**
+
+---
+
+## 🚀 Installation
+
+Before running the tool, make sure you have the required dependencies installed:
+
+```bash
+pip install selenium rich bs4
+```
+
+---
+
+## 📌 Notes
+
+- Uses **Selenium** for automation and API interaction.
+- Uses **BeautifulSoup (`bs4`)** for parsing, where needed.
+- Uses **Rich** for a beautiful, terminal-friendly UI.
+
+---
+
+## License
+
+This tool is provided **for free** and under the **no resale** clause. Redistribution for profit is strictly prohibited.
+
+---
+
+## #holdmybeerandwatchthis 
