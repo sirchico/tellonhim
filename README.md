@@ -3,8 +3,8 @@
 A **Tellonym user information scraper tool** built entirely by me using **Selenium** and **Tellonym's official API**. This tool is designed to extract detailed user information and display it beautifully using the [`rich`](https://github.com/Textualize/rich) library.
 
 > ⚠️ **Disclaimer:**  
-> This tool is **free to use**. **You may not sell** this tool in any form.  
-> It is **not compatible with mobile devices** — **runs on desktop only**.
+> This tool is free to use. **You may not sell** this tool in any form.  
+> It is not compatible with mobile devices - *runs on desktop only*.
 
 ---
 
@@ -25,11 +25,11 @@ This tool scrapes the following information:
 11. Is Active  
 12. Is Able to Comment  
 13. Country Code  
-14. **All Tells and Answers!**
+14. All Tells and Answers
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Before running the tool, make sure you have the required dependencies installed:
 
@@ -49,7 +49,7 @@ pip install selenium rich bs4
 
 ## License
 
-This tool is provided **for free** and under the **no resale** clause. Redistribution for profit is strictly prohibited.
+This tool is provided **for free** and under the no resale clause. Redistribution for profit is strictly prohibited.
 
 ---
 
